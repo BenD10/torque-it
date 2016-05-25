@@ -5,11 +5,11 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
 <servlet>
-    <servlet-name>ca.bendennerley.torque</servlet-name>
-    <servlet-class>ca.bendennerley.torque.Hello</servlet-class>
+    <servlet-name>ca.bendennerley.torque.Upload</servlet-name>
+    <servlet-class>ca.bendennerley.torque.Upload</servlet-class>
 </servlet>
 <servlet-mapping>
-    <servlet-name>ca.bendennerley.torque</servlet-name>
-    <url-pattern></url-pattern>
+    <servlet-name>ca.bendennerley.torque.Upload</servlet-name>
+    <url-pattern>/upload</url-pattern>
 </servlet-mapping>
 </web-app>
