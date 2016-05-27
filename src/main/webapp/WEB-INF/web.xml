@@ -3,7 +3,7 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-  <display-name>Archetype Created Web Application</display-name>
+  <display-name>Torque-It App</display-name>
 <servlet>
     <servlet-name>ca.bendennerley.torque.Upload</servlet-name>
     <servlet-class>ca.bendennerley.torque.Upload</servlet-class>
